@@ -1,7 +1,7 @@
 public class User {
-    String name;
-    String lastname;
-    String user;
+    private String name;
+    private String lastname;
+    private String user;
 
     public User(String name, String lastname, String user) {
         this.name = name;
